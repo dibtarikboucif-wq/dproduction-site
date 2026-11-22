@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dibtarikboucif-wq.github.io/dproduction-site/sitemap.xml
